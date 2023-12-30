@@ -1,4 +1,4 @@
 from discord_webhook import DiscordWebhook
 
-webhook = DiscordWebhook(url="https://discordapp.com/api/webhooks/1186620410368893020/qmlWVwu86fVMJGPIdQzhc4XXDMdP4W_REWwQH0DoB335AkuQm_MuWuOkxcQe2kf-ZXBF", content="Teste")
+webhook = DiscordWebhook(url="https://discord.com/api/webhooks/1190764428187152494/PpwcEP3GmqaeP7eEpBBMktgW72LAVzbv03Nvgri_Xy8LZVbt1PZRYsbv0pHmEu0hWXRl", content="Teste")
 response = webhook.execute()
